@@ -19,13 +19,10 @@ The **Code Snippets** project utilizes the following technologies and libraries:
 To run the Code Snippets project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/AvikNayak22/Code-snippets.git`.
-2. Install the dependencies:
- ```
- cd code-snippets
- npm install
- ```
-3. Start the development server: `npm run dev`
-4. Open your browser and visit http://localhost:5173 to see the Code Snippets blog in action.
+2. Change directory: `cd Code-snippets`
+3. Install the dependencies: `npm install` 
+4. Start the development server: `npm run dev`
+5. Open your browser and visit `http://localhost:5173` to see the Code Snippets blog in action.
 
 ## Contributing
 Contributions to the Code Snippets project are welcome! If you encounter any issues or have suggestions for improvement, please open an issue on the GitHub repository.
